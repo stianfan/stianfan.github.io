@@ -1,0 +1,34 @@
+:root {
+    --bg-color: #ffffff;
+    --bg2-color: #3c4ddd;
+    --bg-image: linear-gradient(to right, #d5ccba, #ffffff);
+    --bg2-image: linear-gradient(to right, #d5ccba00 10%, #000000 80%);
+    --text-color: #000000;
+    --icon-color: #333333;
+    --particles: #000000;
+    --accent-color: #cc241d;
+
+    --about-color: #3c4ddd;
+    --about-bg: #a2a6fb;
+    --about-hue: 0deg;
+
+    --projects-filter: blur(4px) brightness(0.7);
+    --projects-bg-image: linear-gradient(to bottom, #d5ccba, #ffffff);
+
+    --youtube-logo: url(youtube-black.png);
+    --tidal-logo: url(tidal-black.png);
+    --apple-logo: url(apple-black.svg);
+
+
+
+
+    --home-menu-shade1: #ccc;
+    --home-menu-shade2: #ccc;
+    --home-menu-shade3: #ccc;
+    --home-menu-shade4: #ccc;
+    --home-menu-shade5: #ccc;
+    --home-menu-shade6: #ccc;
+    --home-menu-shade7: #ccc;
+    --home-menu-shade8: #ccc;
+    --home-menu-shade9: #ccc;
+}
