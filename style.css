@@ -929,11 +929,6 @@ section {
     justify-self: center;
 }
 
-#webdesign {
-    background: #1e293b;
-    color: white;
-}
-
 #contact {
     background: var(--bg-image);
     color: white;
