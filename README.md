@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="content.png" alt="Header image">
+  <a href="https://stian.fan"><img src="content.png" alt="Header image"></a>
 </p>
 
 <h1 align="center">
